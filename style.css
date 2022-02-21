@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(141, 12, 37);
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 37px;
+}
+
+p {
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+
+hr {
+    border-color: rgb(222, 113, 113);
+}
